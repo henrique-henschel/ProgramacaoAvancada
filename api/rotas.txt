@@ -1,0 +1,2 @@
+GET /livros [LivrosControler::listar()]
+POST /livros [LivrosControler::criar()]
