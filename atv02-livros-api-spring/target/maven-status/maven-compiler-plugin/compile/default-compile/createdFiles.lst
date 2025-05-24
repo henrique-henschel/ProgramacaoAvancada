@@ -1,0 +1,4 @@
+br\com\api\livros\LivrosApplication.class
+br\com\api\livros\model\entities\Book.class
+br\com\api\livros\controller\BookController.class
+br\com\api\livros\model\dtos\BookDto.class
